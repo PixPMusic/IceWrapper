@@ -8,7 +8,7 @@
 
 Well, I'm glad you asked
 
-###I'm working on an app for [91.8 The Fan](http://98thefan.com/) and their version of *BOTH* Icecast2 and Shoutcast DNAS.
+###I'm working on an app for [91.8 The Fan](http://918thefan.com/) and their version of *BOTH* Icecast2 and Shoutcast DNAS.
 
 ####Neither server had a nice API.
 
